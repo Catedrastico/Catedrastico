@@ -50,7 +50,7 @@ Actualmente curso el **primer año** de [Desarrollo de Aplicaciones Multiplatafo
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-<!---
-Catedrastico/Catedrastico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+*Ninguna Inteligencia Artifical resultó herida en la realización de este perfil de Github*
