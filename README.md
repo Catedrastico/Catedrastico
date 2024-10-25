@@ -1,9 +1,9 @@
 
 ![Banner](https://i.ibb.co/4sqRd1P/github-header-image.png)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]https://steamcommunity.com/id/Catedrastico/
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Catedrastico/)
 
 
- # 💬 ¡Me presento!
+ )# 💬 ¡Me presento!
 
 
 
