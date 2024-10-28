@@ -12,7 +12,7 @@
 
 
 
-Mi nombre es **Juan Carlos Oliva Saorín**, y empiezo en el mundo de la programación desde ``cero``. Con la guía de [Jesús Turpin](https://nicetutor.es/resized/tutor/196/9196/540z720_full_main-64b3bae1144726-06129854.jpg "Mastodonte de la comunicación") y otros tutores, espero aprender a desarrollar aplicaciones del entorno móvil 📱
+Mi nombre es **Juan Carlos Oliva Saorín**, y empiezo en el mundo de la programación desde ``cero``. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F) "Mastodonte de la comunicación") y otros tutores, espero aprender a desarrollar aplicaciones del entorno móvil 📱
 
 
 
