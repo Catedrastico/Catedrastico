@@ -28,10 +28,9 @@ Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la progra
 
 ## :books: Ocupación Actual
 
-Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://sites.google.com/view/fplaconservera)  
+Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://sites.google.com/view/fplaconservera), que consta de los siguientes módulos:  
 
-    Primero de DAW
-    -----------------
+  
     1. Base de Datos 
     2. Lenguaje de Marcas
     3. Entornos de Desarrollo   
@@ -72,6 +71,6 @@ Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplat
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ___
-* *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
+* *Inspirado en el contenido del canal de *Youtube* ![Logo](https://cdn-icons-png.flaticon.com/128/1383/1383260.png) de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
 * *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
