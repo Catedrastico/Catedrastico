@@ -21,7 +21,7 @@ Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la progra
 
 * :iphone: *Programación para móvil*.
 * 🤖 *Big Data*, *Machine-Learning* e *IA*.
-* :rotating_light: *Ciberseguridad y Hackeo Ético*.    <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpncGE4bG10ZXdzM200cGp4ajViMmh0ejAxc2l2bHF0Mnhmdm5xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WVTW6vYXZCQWvUhm0N/200.webp/>
+* :rotating_light: *Ciberseguridad y Hackeo Ético*.    
 * 🦾 *Robótica Educativa*.
 
 * *...y, por supuesto, [ser mi propio jefe](https://media.vandalsports.com/i/1706x960/2-2021/202122516029_1.jpg.webp)*
