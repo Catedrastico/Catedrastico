@@ -8,19 +8,31 @@
 
 
 
-# 💬 ¡Me presento!
+ # 💬 ¡Me presento!
 
 
 
-Mi nombre es **Juan Carlos Oliva Saorín**, y empiezo en el mundo de la programación desde ``cero``. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F)"Mastodonte de la comunicación") y otros tutores, espero aprender a desarrollar aplicaciones del entorno móvil 📱
+Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F "Mastodonte de la comunicación") y otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
 
 
 
 
-Actualmente curso el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [La Conservera](https://sites.google.com/view/fplaconservera)
+## :brain: Intereses Actuales
 
-     
-    1. Base de Datos
+* :iphone: *Programación para móvil*.
+* 🤖 *Big Data*, *Machine-Learning* e *IA*.
+* :rotating_light: *Ciberseguridad y Hackeo Ético*.
+* 🦾 *Robótica Educativa*.
+
+* *...y, por supuesto, [ser mi propio jefe](https://media.vandalsports.com/i/1706x960/2-2021/202122516029_1.jpg.webp)*
+
+## :books: Ocupación Actual
+
+Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://sites.google.com/view/fplaconservera)  
+
+    Primero de DAW
+    -----------------
+    1. Base de Datos 
     2. Lenguaje de Marcas
     3. Entornos de Desarrollo   
     4. Inglés Profesional
@@ -29,8 +41,8 @@ Actualmente curso el **primer año** de [Desarrollo de Aplicaciones Multiplatafo
     7. Sistemas Informáticos
     8. Digitalización Aplicada al Sistema Productivo
 
-# 💻 Tecnologias.
-## Tecnologias & Lenguajes en Curso ...
+# 💻 Tecnologías.
+## Tecnologías & Lenguajes en Curso ...
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	
@@ -54,6 +66,8 @@ Actualmente curso el **primer año** de [Desarrollo de Aplicaciones Multiplatafo
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
----
 
-*Ninguna Inteligencia Artifical resultó herida en la realización de este perfil de Github*
+___
+* *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
+* *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
+* *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
