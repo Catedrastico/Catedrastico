@@ -1,5 +1,5 @@
 
-![Banner](https://ibb.co/F7n70hL)
+![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ProyectoCate_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.catedrastico@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Catedrastico/)
