@@ -1,10 +1,8 @@
-
-[![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
+ 
+ [![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ProyectoCate_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.catedrastico@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Catedrastico/)
-
-
 
 
 
@@ -12,14 +10,25 @@
 
 
 
-Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F "Mastodonte de la comunicación") y otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
+### Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F "Mastodonte de la comunicación") y otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
+
+### Además, siempre he tenido una marcada inclinación al mundo de la ``comunicación``; por lo que me ganaré la vida tecleando, ya sea en formato *análogico* :tv: o *digital* :computer:. O quizás lo idóneo es aunar el mundo de la comunicación y de la tecnología, y ser [***Streamer***](https://es.wikipedia.org/wiki/Andorra).
+
+
+## Skills complementarias    
+
+| Habilidad | Nivel |
+|-----------|-------|
+|  Idiomas  | Bien  |
+|Aprendizaje| Mal   |
+| Escribir  | Bien  |
 
 
 
 
 ## :brain: Intereses Actuales
 
-* :iphone: *Programación para móvil*.
+* :iphone: *Programación para móvil*.                      
 * 🤖 *Big Data*, *Machine-Learning* e *IA*.
 * :rotating_light: *Ciberseguridad y Hackeo Ético*.
 * 🦾 *Robótica Educativa*.
@@ -28,7 +37,7 @@ Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la progra
 
 ## :books: Ocupación Actual
 
-Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://sites.google.com/view/fplaconservera), que consta de los siguientes módulos:  
+Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://www.ieslosalbares.es/laconservera/), que consta de los siguientes módulos:  
 
   
     1. Base de Datos 
@@ -69,6 +78,7 @@ Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplat
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 
 ___
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
