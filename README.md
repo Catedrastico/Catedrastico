@@ -71,6 +71,6 @@ Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplat
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ___
-* *Inspirado en el contenido del canal de *Youtube* ![Logo](https://cdn-icons-png.flaticon.com/128/1383/1383260.png) de [Condor Coders](https://www.youtube.com/@condorcoders)*.
+* *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
 * *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
