@@ -66,7 +66,7 @@ Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplat
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-
+![End](https://i.ibb.co/n8qydBX/Untitled-design.png)
 ___
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
