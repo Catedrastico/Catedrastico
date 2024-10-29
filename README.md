@@ -1,5 +1,5 @@
 
-[![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)]([https://media.istockphoto.com/id/508408464/es/vector/bar-de-la-carga-de-trabajo-en-curso.jpg?s=612x612&w=0&k=20&c=0_MW64oOL8SPLJv2JnbQZDvg5v85hiVBPlzD2c5htjE==](https://cdn-icons-png.flaticon.com/512/5578/5578703.png))
+[![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ProyectoCate_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.catedrastico@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Catedrastico/)
