@@ -1,5 +1,4 @@
- 
-[![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
+ [![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ProyectoCate_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.catedrastico@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Catedrastico/)
@@ -10,13 +9,13 @@
 
 
 
-Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F "Mastodonte de la comunicación") [^1] y otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
+Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F "Mastodonte de la comunicación") [^1] y de otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
 
-Además, siempre he tenido una marcada inclinación al mundo de la ``comunicación``; por lo que me ganaré la vida tecleando, ya sea en formato *análogico* :tv: o *digital* :computer:. O quizás lo idóneo es aunar el mundo de la comunicación y de la tecnología, y ser [***Streamer***](https://es.wikipedia.org/wiki/Andorra).
+Además, siempre he tenido una marcada inclinación hacia la ``comunicación``; por lo que me ganaré la vida tecleando, ya sea en formato *análogico* :tv: o *digital* :computer:. O quizás lo idóneo es aunar el mundo de la comunicación y de la tecnología, y ser [***Streamer***](https://es.wikipedia.org/wiki/Andorra).
 
 ---
 
-## Skills complementarias    
+## :sparkles: Skills complementarias    
 
 | Habilidad | Nivel | 
 |-----------|-------| 
@@ -33,18 +32,18 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 
 | Interés | Enfoque |
 |---------|---------|
-|:iphone: *Programación móvil*| Desarrollo y distribucción de aplicaciones propias|                     
-|🤖 *Big Data* e *IA*| Desarrollar herramientas para la detección del mal uso de la IA |
-|:rotating_light: *Ciberseguridad y Hackeo Ético*.| Familiarizarme con la defensa de la información |
-|🦾 *Robótica Educacional* | Fomentar la educación tecnológica desde los primeros años |
+|:iphone: *Programación móvil*| Desarrollo y distribucción de aplicaciones propias.|                     
+|🤖 *Big Data* e *IA*| Desarrollar herramientas para la detección del mal uso de la IA. |
+|:rotating_light: *Ciberseguridad y Hackeo Ético*.| Familiarizarme con la defensa y protección de la información. |
+|🦾 *Robótica Educacional* | Fomentar la educación tecnológica desde los primeros años. |
 |*...y, por supuesto, [ser mi propio jefe](https://media.vandalsports.com/i/1706x960/2-2021/202122516029_1.jpg.webp)* | :shark::shark::shark:|
 
 ## :books: Formación
 
-1. Lienciaciado en [Periodismo](https://www.umh.es/contenido/Universidad/:tit_g_140_R1_CAnt/datos_es.html?marcaTxtBusc=periodismo) por la Universidad *Miguel Hernández*
-2. Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAW") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://www.ieslosalbares.es/laconservera/), que consta de los siguientes módulos:  
+1. Licenciado en [Periodismo](https://www.umh.es/contenido/Universidad/:tit_g_140_R1_CAnt/datos_es.html?marcaTxtBusc=periodismo) por la Universidad *Miguel Hernández*
+2. Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAM") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://www.ieslosalbares.es/laconservera/), que consta de los siguientes módulos:  
 
-  ```
+
     1. Base de Datos 
     2. Lenguaje de Marcas
     3. Entornos de Desarrollo   
@@ -53,7 +52,7 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
     6. Programación 
     7. Sistemas Informáticos
     8. Digitalización Aplicada al Sistema Productivo
-```
+
 
 # 💻 Tecnologías.
 <Center>
@@ -66,7 +65,6 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
@@ -95,5 +93,6 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
-   [^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
+*
+* [^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
 
