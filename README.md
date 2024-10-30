@@ -95,6 +95,5 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
-*
-* [^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
+   [^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
 
