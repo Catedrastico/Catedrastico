@@ -1,5 +1,5 @@
  
- [![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
+[![Banner](https://i.ibb.co/h8C8ZgJ/github-header-image-7.png)](https://i.ibb.co/7Q8FMQK/1000-F-89290814-TSIev-LOXj-AUt-XGp-O0-EOh-Tp1c-H9g-QWlhq.jpg)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ProyectoCate_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.catedrastico@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Catedrastico/)
@@ -56,9 +56,11 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 ```
 
 # 💻 Tecnologías.
-##  Lenguajes en Curso ...
-|![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
-----------------------------------------------------------------------------------------------------------|
+<Center>
+
+## Lenguajes...
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -68,13 +70,14 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-
-## Otras tecnologías ...
+## Otras tecnologías...
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Interesado en ...
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
@@ -86,8 +89,12 @@ Además, siempre he tenido una marcada inclinación al mundo de la ``comunicaci�
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+</center>
 
-___
+---
+
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
+*
 * [^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
+
