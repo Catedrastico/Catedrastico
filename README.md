@@ -14,8 +14,9 @@
 
 ### Además, siempre he tenido una marcada inclinación al mundo de la ``comunicación``; por lo que me ganaré la vida tecleando, ya sea en formato *análogico* :tv: o *digital* :computer:. O quizás lo idóneo es aunar el mundo de la comunicación y de la tecnología, y ser [***Streamer***](https://es.wikipedia.org/wiki/Andorra).
 
+--- 
 
-## Skills complementarias    
+# Skills complementarias    
 
 | Habilidad | Nivel |
 |-----------|-------|
