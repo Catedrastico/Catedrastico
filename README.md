@@ -43,7 +43,7 @@ Además, siempre he tenido una marcada inclinación hacia la ``comunicación``; 
 1. Licenciado en [Periodismo](https://www.umh.es/contenido/Universidad/:tit_g_140_R1_CAnt/datos_es.html?marcaTxtBusc=periodismo) por la Universidad *Miguel Hernández*
 2. Actualmente cursando el **primer año** de [Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html "DAM") en 📍 [El Centro Integral de Formación Profesional a Distancia "La Conservera" ](https://www.ieslosalbares.es/laconservera/), que consta de los siguientes módulos:  
 
-
+````
     1. Base de Datos 
     2. Lenguaje de Marcas
     3. Entornos de Desarrollo   
@@ -52,7 +52,7 @@ Además, siempre he tenido una marcada inclinación hacia la ``comunicación``; 
     6. Programación 
     7. Sistemas Informáticos
     8. Digitalización Aplicada al Sistema Productivo
-
+````
 
 # 💻 Tecnologías.
 <Center>
@@ -88,11 +88,11 @@ Además, siempre he tenido una marcada inclinación hacia la ``comunicación``; 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 </center>
-
+ 
+ ![End](https://i.ibb.co/n8qydBX/Untitled-design.png)
 ---
 
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
-*
 * [^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
 
