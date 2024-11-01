@@ -9,7 +9,7 @@
 
 
 
-Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de [Jesús Turpin](https://ibb.co/jDy1J7F "Mastodonte de la comunicación") [^1] y de otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
+Mi nombre es ***Juan Carlos Oliva Saorín***, y empiezo en el mundo de la programación desde ``cero``. Desde pequeño :boy: me ha interesado la tecnología y he vivido rodeado de ordenadores y cacharros. Con la guía de Jesús Turpin y de otros tutores, espero aprender a dar los primeros pasos :paw_prints: de una **larga** carrera en el ámbito de la tecnología.
 
 Además, siempre he tenido una marcada inclinación hacia la ``comunicación``; por lo que me ganaré la vida tecleando, ya sea en formato *análogico* :tv: o *digital* :computer:. O quizás lo idóneo es aunar el mundo de la comunicación y de la tecnología, y ser [***Streamer***](https://es.wikipedia.org/wiki/Andorra).
 
@@ -94,5 +94,5 @@ Además, siempre he tenido una marcada inclinación hacia la ``comunicación``; 
 
 * *Inspirado en el contenido del canal de *Youtube* de [Condor Coders](https://www.youtube.com/@condorcoders)*.
 * *Ninguna Inteligencia Artificial resultó herida en la realización de este perfil de Github.*
-[^1]: *La foto kawaii no ha salido de este ordenador y será autodestruida cuando este perfil sea corregido*
+
 
